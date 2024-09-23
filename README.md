@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 
-- 🔭 I’m currently working on **an Intelligent Greenhouse Project in an Ambient Intelligence Environment**
-
-- 🌱 I’m currently learning **the MEAN stack**
-
-- 💬 Ask me about **anything related with Computer Science**
-
 - 📫 How to reach me **melliosgiorgos3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
